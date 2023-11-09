@@ -1,8 +1,4 @@
-  Hi, I'm Jefferson. I'm 23 years old and i'm from Belo Horizonte - MG.
-  
-  I am a Front-end developer with javascript, aiming to become fullstack. 
-  
-
+  Hi, my name is Jefferson. I love music, games and exercising my creativity through code 💚.  
 
 <!---
 Jefferson13t/Jefferson13t is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
