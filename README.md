@@ -3,7 +3,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jefferson13t&size_weight=0.5&count_weight=0.5&theme=gotham&layout=compact)
 
 ##
-<div style="display: flex"><br>
+<div style="display: flex; gap: 10px"><br>
   <img style="height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img style="height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img style="height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
