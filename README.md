@@ -5,7 +5,7 @@
 ##
 <div style="display: inline_block"><br>
   <img alt="Logo js" align="center" margin="5px" style="height:30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img alt="Logo js" align="center" margin="5px" style="height:50px; margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img alt="Logo js" align="center" margin="5px" style="height:30px; margin-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img alt="Logo js" align="center" margin="5px" style="height:30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img alt="Logo js" align="center" margin="5px" style="height:30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img alt="Logo js" align="center" margin="5px" style="height:30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
