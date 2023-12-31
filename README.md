@@ -1,5 +1,5 @@
 ## Hello!! I am Jefferson.
-# Software Developer
+# Software Engineer
 I'm a Systems Engineering student at UFMG. Currently working with fullstack development with Javascript enviroment.
 
 <div>
