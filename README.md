@@ -2,11 +2,14 @@
 # Software Developer
 I'm a Systems Engineering student at UFMG. Currently working with fullstack development with Javascript enviroment.
 
+<div>
 Quick facts:
-🚀 I'm currently learning about C# and .net
-💻 I like doing Competitive Programming
-💚 I love music, fiction and the color green
-
+  <ul>
+<li>🚀 I'm currently learning about C# and .net</li>
+<li>💻 I like doing Competitive Programming</li>
+<li>💚 I love music, fiction and the color green</li>
+    </ul>
+</div>
 
 [![Jefferson's GitHub stats](https://github-readme-stats.vercel.app/api?username=jefferson13t&show_icons=true&theme=gotham&rank_icon=github&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jefferson13t&size_weight=0.5&count_weight=0.5&theme=gotham&layout=compact)
