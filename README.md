@@ -1,4 +1,6 @@
-## Hello!!! I am Jefferson. I like doing random things.
+## Hello!!! I am Jefferson.
+# Software Developer
+I'm a Systems Engineering student at UFMG.
 
 [![Jefferson's GitHub stats](https://github-readme-stats.vercel.app/api?username=jefferson13t&show_icons=true&theme=gotham&rank_icon=github&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jefferson13t&size_weight=0.5&count_weight=0.5&theme=gotham&layout=compact)
