@@ -1,4 +1,4 @@
-  Hi, my name is Jefferson. I love music, games and exercising my creativity through code 💚.  
+## Hi, my name is Jefferson. I love music, games and exercising my creativity through code 💚.  
 [![Jefferson's GitHub stats](https://github-readme-stats.vercel.app/api?username=jefferson13t&show_icons=true&theme=gotham&rank_icon=github&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jefferson13t&size_weight=0.5&count_weight=0.5&theme=gotham&layout=compact)
 
