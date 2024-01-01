@@ -42,18 +42,26 @@ async function getRating(games){
 async function main(){
     const archives = await getEndpoints();
     let finalGames = [];
+
     for(archive of archives){
         const games = await filteredGames(archive);
 
         finalGames.push(...games);
+
         if(finalGames.length >= NGAMES){
             break;
         }
     }
 
     const ratingList = await getRating(finalGames);
+
+    if(ratingList.length > 100){
+        console.log(ac.plot(ratingList.slice(0, ratingList.length - NGAMES), {'height': 15}));
+    } else {
+        console.log(ac.plot(ratingList, {'height': 15}));
+    }
     
-    console.log(ac.plot(ratingList, {'height': 10}));
+
 } 
 
 main()
