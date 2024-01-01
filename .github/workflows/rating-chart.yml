@@ -1,4 +1,3 @@
-
 name: Update Readme ascii graph and workflow
 on:
   push:
@@ -7,14 +6,14 @@ on:
       - README.md
       - .github/workflows/rating-chart.yml
   schedule:
-    - cron: "0 */8 * * *"
+    - cron: '30 8, * * *'
 jobs:
   ratings-chart:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@main
         with:
-          token: ${{ secrets.GH_TOKEN_1 }}
+          token: ${{ secrets.GITHUB_TOKEN }}
         name: Using Node.js
       - uses: actions/setup-node@v2
         with:
@@ -26,6 +25,7 @@ jobs:
           node codes/rating_chart.js > chart.txt
           CHART=$(cat chart.txt)
           echo "::set-output name=chart::$CHART"
+      - run: cat chart.txt >> README.md
       - id: changed
         run: git diff --exit-code
         continue-on-error: true
@@ -38,4 +38,4 @@ jobs:
           message: "Auto updating my readme and workflow timing!"
           add: "README.md .github/workflows/rating-chart.yml"
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN_1 }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
