@@ -22,7 +22,7 @@ async function filteredGames(monthlyArchives){
     let filteredGames = monthlyGames.filter((game)=>{
         return (game.time_class == TIME_CLASS && game.rules == RULES);
     });
-    return filteredGames;
+    return filteredGames.reverse();
 }
 
 async function getRating(games){
