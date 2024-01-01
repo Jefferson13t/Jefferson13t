@@ -36,7 +36,7 @@ async function getRating(games){
         }
     }
 
-    return ratingList;
+    return ratingList.reverse();
 }
 
 async function main(){
