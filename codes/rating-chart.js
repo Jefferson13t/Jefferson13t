@@ -56,7 +56,7 @@ async function main(){
     const ratingList = await getRating(finalGames);
 
     if(ratingList.length > 100){
-        console.log(ac.plot(ratingList.slice(0, ratingList.length - NGAMES), {'height': 15}));
+        console.log(ac.plot(ratingList.slice(ratingList.length - NGAMES, ratingList.length), {'height': 15}));
     } else {
         console.log(ac.plot(ratingList, {'height': 15}));
     }
