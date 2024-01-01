@@ -53,7 +53,7 @@ async function main(){
 
     const ratingList = await getRating(finalGames);
     
-    console.log(ac.plot(ratingList, {'height': 15}));
+    console.log(ac.plot(ratingList, {'height': 10, colors: [asciichart.green]}));
 } 
 
 main()
