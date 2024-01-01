@@ -24,13 +24,13 @@ jobs:
       - run: |
           node codes/rating-chart.js > chart.txt
           CHART=$(cat chart.txt)
-          echo "```"
           echo "::set-output name=chart::$CHART"
-          echo "```"
+      - run: cat assets/README-1.md > README.md
       - run: cat chart.txt >> README.md
       - run: |
           currentDate=`env TZ=America/Sao_Paulo date`
           printf "\nChart last updated - ${currentDate}" >> README.md
+      - run: cat assets/README-2.md >> README.md
       - id: changed
         run: git diff --exit-code
         continue-on-error: true

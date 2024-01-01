@@ -35,3 +35,8 @@ Quick facts:
   <img alt="Logo php" align="center" style="height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img alt="Logo php" align="center" style="height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 </div>
+
+```
+  # ♟︎ Chess.com Ratings Chart #
+  
+  Blitz Rating

@@ -39,7 +39,6 @@ async function getRating(games){
     return ratingList;
 }
 
-
 async function main(){
     const archives = await getEndpoints();
     let finalGames = [];
