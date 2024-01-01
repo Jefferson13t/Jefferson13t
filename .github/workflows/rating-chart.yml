@@ -22,7 +22,7 @@ jobs:
       - run: npm install asciichart
         name: Create Chart
       - run: |
-          node codes/rating_chart.js > chart.txt
+          node codes/rating-chart.js > chart.txt
           CHART=$(cat chart.txt)
           echo "::set-output name=chart::$CHART"
       - run: cat chart.txt >> README.md
