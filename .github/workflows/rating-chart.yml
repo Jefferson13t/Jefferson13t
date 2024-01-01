@@ -7,7 +7,7 @@ on:
       - README.md
       - .github/workflows/rating-chart.yml
   schedule:
-    - cron: "0 */8 * * *"
+    - cron: '30 8, * * *'
 jobs:
   ratings-chart:
     runs-on: ubuntu-latest
@@ -26,6 +26,7 @@ jobs:
           node codes/rating_chart.js > chart.txt
           CHART=$(cat chart.txt)
           echo "::set-output name=chart::$CHART"
+      - run: cat chart.txt >> README.md
       - id: changed
         run: git diff --exit-code
         continue-on-error: true
