@@ -36,6 +36,8 @@ Quick facts:
   <img alt="Logo php" align="center" style="height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 </div>
 
+##### I saw this idea to dynamically display my chess.com rating using github actions on @sciencepal profile and decided to implement it myself using javascript
+
 ```
   # ♟︎ Chess.com Ratings Chart #
   
