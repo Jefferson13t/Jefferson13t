@@ -1,10 +1,8 @@
 const ac = require('asciichart')
-
 const USERNAME = "jefferson_Te_pereira";
 const TIME_CLASS = 'rapid'; //daily, rapid, blitz, bullet
 const RULES = 'chess';
 const NGAMES = 100;
-//const headers = {"User-Agent": "ChessRatingRefresh/1.0 aditya.pal.science@gmail.com"};
 const ARCHIVES_URL = `https://api.chess.com/pub/player/${USERNAME}/games/archives`;
 
 async function getEndpoints() {
@@ -24,7 +22,7 @@ async function filteredGames(monthlyArchives){
     let filteredGames = monthlyGames.filter((game)=>{
         return (game.time_class == TIME_CLASS && game.rules == RULES);
     });
-    return filteredGames.reverse();
+    return filteredGames;
 }
 
 async function getRating(games){
