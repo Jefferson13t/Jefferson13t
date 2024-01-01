@@ -39,7 +39,8 @@ Quick facts:
 ```
   # ♟︎ Chess.com Ratings Chart #
   
-  Blitz Rating    1476.00 ┤                    ╭╮  ╭╮                                                                                                                 
+  Blitz Rating
+    1476.00 ┤                    ╭╮  ╭╮                                                                                                                 
     1440.53 ┤╭──╮      ╭─────────╯╰──╯╰─────────────╮                                                                                                   
     1405.07 ┼╯  ╰──────╯                            │                  ╭╮        ╭──╮╭╮    ╭─╮                                                          
     1369.60 ┤                                       │        ╭╮  ╭─────╯╰────────╯  ╰╯╰────╯ │                                                          
@@ -56,5 +57,5 @@ Quick facts:
      979.47 ┤                                                                                 ╰╯╰╮  ╭╮╭─╯                                               
      944.00 ┤                                                                                    ╰──╯╰╯                                                 
 
-Chart last updated - Mon Jan  1 19:07:32 -03 2024  
+Chart last updated - Mon Jan  1 19:11:20 -03 2024  
   ```
