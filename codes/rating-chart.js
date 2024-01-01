@@ -14,6 +14,7 @@ async function getEndpoints() {
     return endpoints.archives.reverse();
 }
 
+
 async function filteredGames(monthlyArchives){
 
     let monthlyGames = []
