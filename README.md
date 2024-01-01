@@ -35,3 +35,26 @@ Quick facts:
   <img alt="Logo php" align="center" style="height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img alt="Logo php" align="center" style="height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 </div>
+
+```
+  # ♟︎ Chess.com Ratings Chart #
+  
+  Blitz Rating    1476.00 ┤                    ╭╮  ╭╮                                                                                                                 
+    1440.53 ┤╭──╮      ╭─────────╯╰──╯╰─────────────╮                                                                                                   
+    1405.07 ┼╯  ╰──────╯                            │                  ╭╮        ╭──╮╭╮    ╭─╮                                                          
+    1369.60 ┤                                       │        ╭╮  ╭─────╯╰────────╯  ╰╯╰────╯ │                                                          
+    1334.13 ┤                                       │  ╭╮╭───╯╰──╯                           │                                                  ╭╮  ╭╮  
+    1298.67 ┤                                       ╰──╯╰╯                                   │                                            ╭─────╯╰──╯╰─ 
+    1263.20 ┤                                                                                │                                ╭───────────╯             
+    1227.73 ┤                                                                                │                          ╭─────╯                         
+    1192.27 ┤                                                                                │                       ╭──╯                               
+    1156.80 ┤                                                                                │                    ╭──╯                                  
+    1121.33 ┤                                                                                │                 ╭──╯                                     
+    1085.87 ┤                                                                                │              ╭──╯                                        
+    1050.40 ┤                                                                                │            ╭─╯                                           
+    1014.93 ┤                                                                                ╰╮╭╮       ╭─╯                                             
+     979.47 ┤                                                                                 ╰╯╰╮  ╭╮╭─╯                                               
+     944.00 ┤                                                                                    ╰──╯╰╯                                                 
+
+Chart last updated - Mon Jan  1 19:07:32 -03 2024  
+  ```
