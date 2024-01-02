@@ -1,4 +1,6 @@
 ## Hello!! I am Jefferson.
+![](https://komarev.com/ghpvc/?username=Jefferson13t&label=Profile%20Visits&color=blue&style=for-the-badge)
+
 # Software Engineer
 I'm a Systems Engineering student at UFMG. Currently working with fullstack development with Javascript enviroment.
 
@@ -16,8 +18,6 @@ Quick facts:
   <a href="https://www.linkedin.com/in/jefferson-souuza" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/jeffpsou" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Jefferson13t.Jefferson13t&left_color=green&right_color=red)
 
 # Already worked with
 [![Jefferson's GitHub stats](https://github-readme-stats.vercel.app/api?username=jefferson13t&show_icons=true&theme=gotham&rank_icon=github&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
