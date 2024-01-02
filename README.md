@@ -1,6 +1,4 @@
 ## Hello!! I am Jefferson.
-![](https://komarev.com/ghpvc/?username=Jefferson13t&label=Profile%20Visits&color=blue&style=for-the-badge)
-
 # Software Engineer
 I'm a Systems Engineering student at UFMG. Currently working with fullstack development with Javascript enviroment.
 
@@ -38,7 +36,7 @@ Quick facts:
   <img alt="Logo php" align="center" style="height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 </div>
 
-#### I saw this idea to dynamically display my chess.com rating using github actions on @sciencepal profile and decided to implement it myself using javascript
+##### I saw this idea to dynamically display my chess.com rating using github actions on @sciencepal profile and decided to implement it myself using javascript
 
 ```
   # ♟︎ Chess.com Ratings Chart #
@@ -61,5 +59,5 @@ Quick facts:
     1324.80 ┤ ╭─╯                                                                            
     1314.00 ┼─╯                                                                              
 
-Chart last updated - Mon Jan  1 20:04:11 -03 2024  
+Chart last updated - Tue Jan  2 05:38:35 -03 2024  
   ```
