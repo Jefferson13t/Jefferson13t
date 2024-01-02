@@ -1,4 +1,6 @@
 ## Hello!! I am Jefferson.
+![](https://komarev.com/ghpvc/?username=Jefferson13t&label=Profile%20Visits&color=blue&style=for-the-badge)
+
 # Software Engineer
 I'm a Systems Engineering student at UFMG. Currently working with fullstack development with Javascript enviroment.
 
