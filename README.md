@@ -43,7 +43,7 @@ Quick facts:
 ```
   # ♟︎ Chess.com Ratings Chart #
   
-  Blitz Rating
+  Bullet Rating
     1596.00 ┤         ╭╮                                                                     
     1587.13 ┤        ╭╯╰─╮                                                                   
     1578.27 ┤   ╭╮╭╮╭╯   ╰╮                                                                  
@@ -61,5 +61,5 @@ Quick facts:
     1471.87 ┤                                               ╰╯  ╰╯        ╰╮╭╯╰╯             
     1463.00 ┤                                                              ╰╯                
 
-Chart last updated - Thu Jan  4 11:40:06 -03 2024  
+Chart last updated - Thu Jan  4 11:40:30 -03 2024  
   ```
