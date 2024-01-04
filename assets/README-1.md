@@ -43,4 +43,4 @@ Quick facts:
 ```
   # ♟︎ Chess.com Ratings Chart #
   
-  Blitz Rating
+  Bullet Rating
