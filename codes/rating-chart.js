@@ -1,6 +1,6 @@
 const ac = require('asciichart')
 const USERNAME = "jefferson_Te_pereira";
-const TIME_CLASS = 'rapid'; //daily, rapid, blitz, bullet
+const TIME_CLASS = 'bullet'; //daily, rapid, blitz, bullet
 const RULES = 'chess';
 const NGAMES = 80;
 const ARCHIVES_URL = `https://api.chess.com/pub/player/${USERNAME}/games/archives`;
