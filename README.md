@@ -21,8 +21,6 @@ Quick facts:
 </div>
 
 # Already worked with
-[![Jefferson's GitHub stats](https://github-readme-stats.vercel.app/api?username=jefferson13t&show_icons=true&theme=gotham&rank_icon=github&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jefferson13t&size_weight=0.5&count_weight=0.5&theme=gotham&layout=compact)
 
 <div style="display: inline_block"><br>
   <img alt="Logo react" align="center" style="height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -38,6 +36,15 @@ Quick facts:
   <img alt="Logo php" align="center" style="height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img alt="Logo php" align="center" style="height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 </div>
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  [![Jefferson's GitHub stats](https://github-readme-stats.vercel.app/api?username=jefferson13t&show_icons=true&theme=gotham&rank_icon=github&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</details>
+<details>
+  <summary>:zap: Most used languages</summary>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jefferson13t&size_weight=0.5&count_weight=0.5&theme=gotham&layout=compact)
+</details>
 
 ##### I saw this idea to dynamically display my chess.com rating using github actions on @sciencepal profile and decided to implement it myself using javascript
 
