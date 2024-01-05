@@ -13,20 +13,16 @@ Quick facts:
     </ul>
 </div>
 
-
 # You can find me on
 <div>
   <a href="https://www.linkedin.com/in/jefferson-souuza" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:jefersonpereira1331@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href = "mailto:jefersonpereira1331@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/jeffpsou" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-# Github stats
-
-  [![Jefferson's GitHub stats](https://github-readme-stats.vercel.app/api?username=jefferson13t&show_icons=true&theme=gotham&rank_icon=github&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jefferson13t&size_weight=0.5&count_weight=0.5&theme=gotham&layout=compact)
-  
 # Already worked with
+[![Jefferson's GitHub stats](https://github-readme-stats.vercel.app/api?username=jefferson13t&show_icons=true&theme=gotham&rank_icon=github&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jefferson13t&size_weight=0.5&count_weight=0.5&theme=gotham&layout=compact)
 
 <div style="display: inline_block"><br>
   <img alt="Logo react" align="center" style="height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
