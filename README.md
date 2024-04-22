@@ -62,5 +62,5 @@ Quick facts:
     1457.60 ┼╮    ╭╯╰─╯            ╰╯  ╰╯     ╰╮╭╮╭╯                                         
     1447.00 ┤╰────╯                            ╰╯╰╯                                          
 
-Chart last updated - Mon Apr 15 05:35:57 -03 2024  
+Chart last updated - Mon Apr 22 05:36:56 -03 2024  
   ```
