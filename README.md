@@ -1,6 +1,6 @@
-# 👋 Hello! I'm Jefferson Pereira
+# Hello! I'm Jefferson Pereira
 
-## 💻 Software Engineer | Fullstack & Mobile Developer
+## Software Engineer | Fullstack & Mobile Developer
 
 I'm a Software Engineer with experience in Node.js, C#, and Python (Django) for backend, and React.js and Flutter for frontend and mobile development.
 I’m passionate about building scalable systems, writing clean code, and applying software engineering best practices.
