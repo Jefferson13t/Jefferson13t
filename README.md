@@ -3,7 +3,6 @@
 ## Software Engineer | Fullstack & Mobile Developer
 
 I'm a Software Engineer with experience in Node.js, C#, and Python (Django) for backend, and React.js and Flutter for frontend and mobile development.
-I’m passionate about building scalable systems, writing clean code, and applying software engineering best practices.
 
 ## Connect with me
 <div>
@@ -16,10 +15,9 @@ I’m passionate about building scalable systems, writing clean code, and applyi
 
 ## Tech Stack
 <div style="display: inline_block"><br>
+  <img align="center" alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="margin-right: 10px;">
+  <img align="center" alt="Node.js" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="margin-right: 10px;">
   <img align="center" alt="Flutter" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="margin-right: 10px;">
   <img align="center" alt="React" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="margin-right: 10px;">
-  <img align="center" alt="Node.js" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="margin-right: 10px;">
-  <img align="center" alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="margin-right: 10px;">
   <img align="center" alt="C#" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="margin-right: 10px;">
-  <img align="center" alt="Firebase" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
 </div>
